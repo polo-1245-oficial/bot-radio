@@ -15,4 +15,10 @@ Desventajas:
 
 --------------------------------------------------------------------------
 
+¿Como crear un bot con esta template?
+
+Dale en "Use template" o "usar template" y se haré un fork en tu GitHub para que lo puedas descargar!
+
+--------------------------------------------------------------------------
+
 ©️ Polo_1245 | 2020-2021 polo1245.es
