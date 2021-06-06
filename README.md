@@ -11,7 +11,7 @@ Ventajas:
 
 Desventajas: 
 
-❌ Solo puede reproduccir música de YT.
+❌ Solo puede reproducir música de YT.
 
 --------------------------------------------------------------------------
 
