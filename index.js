@@ -5,8 +5,6 @@ const ytdl = require('ytdl-core');
 let broadcast = null;
 let interval = null;
 
-
-i
 client.on('ready', async () => {
   client.user.setActivity(STATUS || "Radio");
   let channel = client.channels.cache.get(CHANNEL) || await client.channels.fetch(CHANNEL)
