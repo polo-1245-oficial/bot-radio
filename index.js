@@ -54,5 +54,5 @@ setInterval(async function() {
 
 
 client.login(TOKEN) 
-console.log("listo conectao que isi")
+console.log("Conectado")
 process.on('unhandledRejection', console.error);
